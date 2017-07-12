@@ -16,4 +16,4 @@ Sample website with plenty of files for demos
 Please fork this repsotiry and then issue Pull Requests for review.
 
 ###Copyright
-2017, Fredrik
+2017, Fredrik. All rights reserved.
